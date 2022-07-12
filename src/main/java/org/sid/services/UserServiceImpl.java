@@ -33,7 +33,7 @@ import org.util.SendEmail;
 @Service
 @Transactional
 @RestController
-@RequestMapping("api/")
+@RequestMapping("/api/")
 public class UserServiceImpl implements UserService {
 	@Autowired
 	private GroupeRepo groupeRepo ;
