@@ -1,1 +1,1 @@
-web: java -jar target/app-1.0.0.jar
+web: -Dserver.port=23001 -jar target/app-0.0.1-SNAPSHOT.jar
