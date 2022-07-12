@@ -29,11 +29,11 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 import org.util.SendEmail;
 
-@CrossOrigin
+@CrossOrigin(origins ="https://telework-management.herokuapp.com/")
 @Service
 @Transactional
 @RestController
-@RequestMapping("/api/")
+@RequestMapping("api/")
 public class UserServiceImpl implements UserService {
 	@Autowired
 	private GroupeRepo groupeRepo ;
