@@ -18,4 +18,6 @@ admin : anass.eljazouly@gmail.com mdp: 1234
 respo: respo@gmail.com mdp: 1234
 agent: agent@gmail.com mdp:1234
 
+PLEASE DO NOT MODIFY OR DELETE THOSE USERS !!!!
+
 you can contact me at my email anass.eljazouly@gmail.com for any further questions.
