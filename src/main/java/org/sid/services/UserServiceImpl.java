@@ -29,7 +29,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 import org.util.SendEmail;
 
-@CrossOrigin(origins ="http://localhost:3000/")
+@CrossOrigin
 @Service
 @Transactional
 @RestController
