@@ -88,6 +88,9 @@
                     <configuration>
                         <finalName>app</finalName>
                			
+			          <addClasspath>true</addClasspath>
+			          <mainClass>org.sid.Demo1Application</mainClass>
+        
                     </configuration>
                 </execution>
             </executions>
